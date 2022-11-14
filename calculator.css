@@ -1,0 +1,11 @@
+#results {
+    display:none;
+  }
+  html {
+    background-color: red;
+  }
+
+  div {
+    background-color: purple;
+    color: yellow;
+  }
